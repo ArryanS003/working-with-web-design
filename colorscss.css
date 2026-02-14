@@ -1,0 +1,36 @@
+@charset "utf-8";
+#div1 {
+	width: 300px;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	//background-color: aqua;
+	//background: #CD171A;
+	background: rgba(30, 56, 235 ,1);
+}
+#div2 {
+	width: 300px;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	//background-color: aqua;
+	//background: #CD171A;
+	//background: rgba(30, 56, 235 ,1);
+	background: hsla(165, 65%, 35%, 0.5);
+}
+#div3 {
+	width: 300px;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	//background: linear-gradient(blue, yellow, red);
+	//background: linear-gradient(223366, 369655);
+	//background: linear-gradient(to top right, blue, yellow);
+	//background: linear-gradient(125deg, blue, yellow);
+	background: radial-gradient(circle, red, yellow 55%);
+}
+h1 {
+	text-align: center;
+	font-size: 75px;
+	padding-top: 110px;
+}

@@ -1,0 +1,10 @@
+@charset "utf-8";
+@font-face{
+	font-family: tahoma;
+	src: url();
+	
+}
+* {
+	font-family: tahoma;
+	font-size: 68px;
+}
